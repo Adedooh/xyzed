@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adedooh
 - 👀 I’m interested in 
-- 🌱 I’m currently learning CSS, Javascript
+- 🌱 I’m currently learning to beacome a Front End development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
